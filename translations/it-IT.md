@@ -380,7 +380,7 @@ I Principi sono in generale usabili come linee guida per il design.
  > Le aziende tendono sistematicamente a promuovere gli impiegati incompetenti a ruoli manageriali per escluderli dall'operatività.
 >
 > _Scott Adams_
-Modello di management sviluppato da Scott Adams (creatore delle strisce a fumetti di Dilbert), il Principio di Dilbert è ispirato dal [Principio di Peter](#principio-di-peter). Secondo questo principio, gli impiegati che non si sono mai dimostrati competenti vengono promossi a ruoli manageriali per limitare il danno che possono arrecare. Adams cità per la prima volta il principio in un'articolo del Wall Street Journal nel 1995, e lo descrisse nel 1996 nel suo libro [The Dilbert Principle](#reading-list).
+Principio di management sviluppato da Scott Adams (creatore delle strisce a fumetti di Dilbert), il Principio di Dilbert è ispirato dal [Principio di Peter](#principio-di-peter). Secondo questo principio, gli impiegati che non si sono mai dimostrati competenti vengono promossi a ruoli manageriali per limitare il danno che possono arrecare. Adams cità per la prima volta il principio in un'articolo del Wall Street Journal nel 1995, e lo descrisse nel 1996 nel suo libro [The Dilbert Principle](#reading-list).
 
  Vedi anche:
 
@@ -409,6 +409,22 @@ Questo Principio è anche noto come: Regola dell'80/20, Legge dei Pochi ma Vital
 Esempi dal mondo reale:
 
 - Nel 2002 la Microsoft riferì che sistemando il 20% dei bachi nella lista tra i più segnalati vennero sistemati l'80% degli errori e dei crash correlati su Windows e Office ([Riferimento](https://www.crn.com/news/security/18821726/microsofts-ceo-80-20-rule-applies-to-bugs-not-just-features.htm)).
+
+### Principio di Peter
+
+ [Il Principio di Peter su Wikipedia](https://it.wikipedia.org/wiki/Principio_di_Peter)
+
+ > Le persone in una gerarchia di lavoro tendono ad avanzare di carriera fino al loro "livello di incompetenza".
+>
+> _Laurence J. Peter_
+Principio di management concepito da Laurence J. Peter, il Principio di Peter afferma che le persone che sono brave nel loro lavoro vengono promosse, fino a che non raggiungono un livello in cui non riescono più ad essere brave (il loro "livello di incompetenza"). A questo punto, essendo la loro seniority aumentata, è meno probabile che queste siano rimosse dall'organizzazione (a meno che la loro performance non sia imbarazzantemente negativa) e così continueranno ad occupare un ruolo per cui hanno pochissime capacità intrinseche, dal momento che le capacità che li hanno in origine permesso di fare bene non sono necessariamente le capacità richieste per il loro attuale nuovo lavoro. 
+
+Ciò è di particolare interesse per gli ingegneri, che di norma iniziano a lavorare con ruoli molto tecnici e hanno spesso percorsi di carriera che li portano a _gestire_ altri ingegneri - il che richiede delle capacità fondamentalmente differenti.
+
+Vedi anche:
+
+ - [Principio di Dilbert](#principio-di-dilbert)
+ - [Legge di Putt](#legge-di-putt)
 
 ### Principio di Robustezza (Legge di Postel)
 
@@ -564,6 +580,9 @@ Se avete trovato questi concetti interessanti, potrebbero interessarvi anche i s
 - [Extreme Programming Installed - Ron Jeffries, Ann Anderson, Chet Hendrikson](https://www.goodreads.com/en/book/show/67834) - Tratta i principi fondamentali dell'Extreme Programming.
 - [The Mythical Man Month - Frederick P. Brooks Jr.](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) - Un grande classico sull'ingegneria del software. La [Legge di Brooks](#legge-di-brooks) è un tema centrale del libro.
 - [Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter.](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) - Questo libro è difficile da classificare. La [Legge di Hofstadter](#legge-di-hofstadter) è presa da qui.
+- [The Dilbert Principle - Adam Scott](https://www.goodreads.com/book/show/85574.The_Dilbert_Principle) - Una vista comica delle aziende americane secondo l'autore del [Principio di Dilbert](#principio-di-dilbert).
+- [The Peter Principle - Lawrence J. Peter](https://www.goodreads.com/book/show/890728.The_Peter_Principle) - Un'altra vista comica sulle sfide che impattano le grandi organizzazioni e la gestione delle persone, fonte del [Principio di Peter](#principio-di-peter). 
+
 
 ## TODO
 
