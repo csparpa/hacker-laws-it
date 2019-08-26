@@ -278,14 +278,14 @@ La Legge di Putt è spesso accompagnata dal Corollario di Putt:
 
 > Ogni gerarchia tecnica, genera un'inversione delle competenze con il passare del tempo.
 
-Queste frasi suggeriscono che, a causa di svariati criteri di selezione e trend con cui i gruppi di lavoro si organizzano, ci sarà un certo numero di persone di vasta esperienza con ruoli tecnici operativi e un certo numero di ruoli manageriali che non sono in grado di comprendere la complessità e le sfide del contesto lavorativo che sono chiamati a gestire. Ciò si spiega con fenomeni come il [Principio di Peter](#TODO) o [La Legge di Dilbert](#TODO).
+Queste frasi suggeriscono che, a causa di svariati criteri di selezione e trend con cui i gruppi di lavoro si organizzano, ci sarà un certo numero di persone di vasta esperienza con ruoli tecnici operativi e un certo numero di ruoli manageriali che non sono in grado di comprendere la complessità e le sfide del contesto lavorativo che sono chiamati a gestire. Ciò si spiega con fenomeni come il [Principio di Peter](#principio-di-peter) o [La Legge di Dilbert](#legge-di-dilbert).
 
 Tuttavia, è corretto specificare che Leggi come queste sono una grande generalizzazione e si applicano ad _alcuni_ tipi di organizzazione e non ad altri.
 
 Vedi anche:
 
-- [Principio di Peter](#TODO)
-- [Legge di Dilbert](#TODO).
+- [Principio di Peter](#principio-di-dilbert)
+- [Legge di Dilbert](#legge-di-dilbert).
 
 
 ### Legge di Conservazione della Complessità (Legge di Tesler)
@@ -372,6 +372,20 @@ Vedi anche:
 ## Principi
 
 I Principi sono in generale usabili come linee guida per il design.
+
+### Principio di Dilbert
+
+ [Il Principio di Dilbert su Wikipedia](https://it.wikipedia.org/wiki/Principio_di_Dilbert)
+
+ > Le aziende tendono sistematicamente a promuovere gli impiegati incompetenti a ruoli manageriali per escluderli dall'operatività.
+>
+> _Scott Adams_
+Modello di management sviluppato da Scott Adams (creatore delle strisce a fumetti di Dilbert), il Principio di Dilbert è ispirato dal [Principio di Peter](#principio-di-peter). Secondo questo principio, gli impiegati che non si sono mai dimostrati competenti vengono promossi a ruoli manageriali per limitare il danno che possono arrecare. Adams cità per la prima volta il principio in un'articolo del Wall Street Journal nel 1995, e lo descrisse nel 1996 nel suo libro [The Dilbert Principle](#reading-list).
+
+ Vedi anche:
+
+ - [Principio di Peter](#principio-di-peter)
+ - [Legge di Putt](#legge-di-putt)
 
 
 ### Principio di Pareto (regola dell'80-20)
