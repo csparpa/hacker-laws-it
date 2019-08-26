@@ -26,6 +26,7 @@ Leggi, teorie, principi e pattern utili agli sviluppatori.
     * [Hype Cycle e Legge di Amara](#hype-cycle-e-legge-di-amara)
     * [Legge di Hyrum (Legge delle Interfacce Implicite)](#legge-di-hyrum-legge-delle-interfacce-implicite)
     * [Legge di Moore](#legge-di-moore)
+    * [Legge di Murphy / Legge di Sod](legge-di-murphy-legge-di-sod)
     * [Legge di Parkinson](#legge-di-parkinson)
     * [Ottimizzazione Prematura](#effetto-di-ottimizzazione-prematura)
     * [Legge di Putt](#legge-di-putt)
@@ -36,7 +37,9 @@ Leggi, teorie, principi e pattern utili agli sviluppatori.
     * [Il modello Spotify](#il-modello-spotify)
     * [Legge di Wadler](#legge-di-wadler)
 * [Principi](#principi)
+    * [Il Principio di Dilbert](#principio-di-dilbert)
     * [Il Principo di Pareto (La regola dell'80/20)](#principio-di-pareto-regola-dell-80-20)
+    * [Il Principio di Peter](#principio-di-peter)
     * [Il Principio di Robustezza (Legge di Postel's)](#principio-di-robustezza-legge-di-postel)
     * [SOLID](#solid)
     * [Il Principio di Singola Responsabilità](#principio-di-singola-responsabilita)
@@ -218,6 +221,24 @@ Vedi anche:
 > Il numero di transistor in un circuito integrato raddoppia approssimativamente ogni due anni.
 
 Spesso utilizzata per illustrare il tasso con cui le tecnologie a semiconduttori e i chip migliorano nel tempo, la legge di Moore si è dimostrata molto accurata dagli anni Settanta fino alla fine dei Duemila. Più di recente il trend è lievemente cambiato, in parte a causa delle [limitazioni fisiche alla miniaturizzazione delle componenti elettroniche](https://it.wikipedia.org/wiki/Effetto_tunnel) ma tuttavia avanzamenti nel campo della parallelizzazione del calcolo e scoperte potenzialmente rivoluzionarie nel campo delle tecnologie a semiconduttori e nel quantum computing potrebbero portare la legge di Moore a valere anche nei prossimi decenni.
+
+### Legge di Murphy / Legge di Sod
+
+ [Legge di Murphy su Wikipedia](https://it.wikipedia.org/wiki/Legge_di_Murphy)
+
+ > Tutto ciò che potrà andare storto lo farà.
+ Attribuita a [Edward A. Murphy, Jr](https://it.wikipedia.org/wiki/Edward_Aloysius_Murphy), _La legge di Murphy_ afferma che se qualcosa può andare storto, lo farà di sicuro.
+
+Questa legge è popolare tra gli sviluppatori. A volte durante la fase di sviluppo, testing o esecuzione in produzione del codice, eventi inaspettati possono succedere. Questo scenario può essere anche ricondotto alla _Legge di Sod_ (più nota tra chi parla Inglese Britannico):
+
+ > Se qualcosa può andare storto, lo farà, nel momento peggiore di tutti.
+ Queste 'leggi' sono generalmente usate con una valenza comica.Tuttavia, fenomeni come il [_Bias della Conferma_](#TODO) e il [_Bias della Selezione_](#TODO) possono portare a enfatizzare eccessivamente queste leggi (la maggior parte delle volte in cui le cose funzionano bene queste passano inosservate tuttavia i disservizi fanno più scalpore e generano più discussione).
+
+ Vedi anche:
+
+ - [Bias della Conferma](#TODO)
+ - [Bias della Selezione](#TODO)
+
 
 ### Legge di Parkinson
 
